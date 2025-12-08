@@ -15,7 +15,7 @@ export default function VideoSection() {
                     <div className="relative rounded-2xl overflow-hidden shadow-2xl bg-black">
                         <div className="aspect-video">
                             <iframe
-                                src="https://www.youtube.com/embed/3rZi0XRZu2k"
+                                src="https://www.youtube.com/embed/3rZi0XRZu2k?autoplay=1&mute=1&loop=1&playlist=3rZi0XRZu2k&controls=0&showinfo=0&rel=0&modestbranding=1"
                                 title="Servicios de Mudanzas Profesionales"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowFullScreen
